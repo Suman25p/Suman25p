@@ -11,9 +11,8 @@
 Skills 😊
 - Programming Languages: Java, Python
 - Front-end tools and frameworks: HTML, CSS, JavaScript, React.js, Bootstrap
-- Backend-end tools and frameworks: Node.js(Express.js)
+- Backend-end tools and frameworks: Node.js, SpringBoot, Hibernate, JDBC
 - Database: MySQL, MongoDB
 - Version Control: Git, GitHub
-- Data Analytics tools: Python, Pandas, Numpy, Matplotlib, MS Excel, SQL
-- Object Oriented Programming Languages - Java
+- Object Oriented Programming Language - Java
 - Problem Solving: Data Structure and Algorithms
