@@ -3,7 +3,7 @@
 - 👀 I’m a Full Stack Developer From India.
 - 🌱 I’m currently learning and upskilling in Problem Solving.
 - 💞️ I’m looking to collaborate with fellow developers.
-- 📫 How to reach me pasisuman2511@gmail.com
+- 📫 How to reach me sumanpasi909@gmail.com
 - 🥅 Goal: To be a skilled Software Developer
 - 🤗 Pronouns: She/her
 
