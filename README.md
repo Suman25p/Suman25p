@@ -11,7 +11,7 @@
 Skills 😊
 - Programming Languages: Java
 - Front-end tools and frameworks: HTML, CSS, JavaScript, React.js, Bootstrap
-- Backend-end tools and frameworks: Node.js, SpringBoot, Hibernate, JDBC
+- Backend-end tools and frameworks: JUnit, Node.js, SpringBoot, Hibernate, JDBC
 - Database: MySQL, MongoDB
 - Version Control: Git, GitHub
 - Object Oriented Programming Language - Java
